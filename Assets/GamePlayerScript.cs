@@ -11,7 +11,7 @@ namespace DemoNamespace
     		//bat dau code o day
     		int a = 1;
     		int target = 5;
-    		target =+ a;
+    		target += a;
             Debug.Log(target);
         }
 
