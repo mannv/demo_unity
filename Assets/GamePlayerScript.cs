@@ -10,6 +10,7 @@ namespace DemoNamespace
         public void Start() {
     		//bat dau code o day
     		int awaitTime = 42;
+    		awaitTime++;
         }
 
         // Update is called once per frame
