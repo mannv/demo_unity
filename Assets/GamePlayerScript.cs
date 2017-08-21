@@ -7,13 +7,13 @@ namespace DemoNamespace
     public class GamePlayerScript : MonoBehaviour {
 
         // Use this for initialization
-        void Start() {
-
+        public void Start() {
+    		//bat dau code o day
         }
 
         // Update is called once per frame
-        void Update() {
-
+        public void Update() {
+        	//bat dau code o day
         }
     }
 }
