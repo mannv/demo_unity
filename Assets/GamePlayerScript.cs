@@ -9,8 +9,9 @@ namespace DemoNamespace
         // Use this for initialization
         public void Start() {
     		//bat dau code o day
-    		int awaitTime = 42;
-    		awaitTime++;
+    		int a = 0;
+    		int b = 1;
+    		int c = a + b;    		
         }
 
         // Update is called once per frame
