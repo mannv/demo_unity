@@ -12,7 +12,7 @@ namespace DemoNamespace
     		int a = 1;
     		int target = 5;
     		target =+ a;
-    		//target += a;
+            Debug.Log(target);
         }
 
         // Update is called once per frame
